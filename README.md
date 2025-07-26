@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siri Jack</h1>
 <h3 align="center">An Aspiring Software developer from India</h3>
 
-- 🔭 I’m currently working on [Taskly](https://github.com/gsiri-jack/Taskly)
+- 🔭 I’m currently working on [InterviewExpert](https://github.com/gsiri-jack/interviewXpert)
 
 - 📫 How to reach me **gsirijack@gmail.com**
 
