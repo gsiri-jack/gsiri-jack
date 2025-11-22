@@ -1,30 +1,29 @@
 <h1 align="center">Hi 👋, I'm Gona Sirijack</h1>
 <h3 align="center">Backend Developer | Java • Spring • Python • SQL | Final Year CSE Student</h3>
 
-
+<p align="center">
+  <em><strong>"I build, I break, I fix — that is how I grow."</strong></em>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 Final-year **Computer Science Engineering** student at Pace Institute of Technology and Sciences (CGPA: 7.78)  
-- 💼 Experienced in **Java Full Stack**, **Python**, **Django**, **Spring**, **React**, and **MySQL**  
-- 🧪 Former Java Full Stack Intern at **CodeTantra** and Data Science Intern at **42Learn**  
-- 🛠️ Actively contributing to open source (ProfessionalWiki/Rules)  
+- 💼 Experienced in **Java Full Stack**, **Python**, **Django**, **Spring**, **React**, and **MySQL**    
 - 🚀 Focused on backend systems, distributed apps, and cloud-based solutions  
-- 📚 Preparing for engineering roles & coding competitions (Juspay, Flipkart Grid)
-
+  
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,php" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
 </p>
 
 ### **Frameworks & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,django,wordpress,git,mysql,aws" />
+  <img src="https://skillicons.dev/icons?i=spring,react,django,git,mysql,aws,docker" />
 </p>
 
 ---
@@ -38,8 +37,10 @@ Features automated question flow, authentication, and analytics.
 ### 🔹 **Multi-Store Ecommerce Platform**
 Developed using **Python, Django & React JS**, supporting multi-store operations, cart system, and admin dashboards.
 
-### 🔹 **Salesforce CRM for Student Management**
-A CRM built on **Salesforce**, handling **Leads, Students, Courses**, and automated emails.
+### 🔹 **Library Management System**
+A practical and user-friendly application designed to simplify library operations using a clean **GUI built with Tkinter**.  
+Built with **Python**, following clean **OOP principles**, ensuring scalability and maintainability.
+
 
 ### 🔹 **Super Store Tableau Dashboard**
 Interactive data analysis dashboard showcasing KPIs and sales insights.
@@ -60,17 +61,37 @@ Interactive data analysis dashboard showcasing KPIs and sales insights.
 
 ---
 
-## 📫 Connect With Me
-- 📧 **Email:** gsirijack@gmail.com  
-- 🔗 **LinkedIn:** https://linkedin.com/in/sirijack  
-- 🐙 **GitHub:** https://github.com/gsiri-jack  
+## 🌟 Why Choose Me?
+
+I bring a rare combination of **strong fundamentals**, **hands-on product experience**, and **consistent self-driven learning**.  
+What makes me unique is my ability to **convert ideas into working products** — whether it's a full-stack platform, automation workflow, or a backend system.  
+I don't just learn technologies; **I build real systems with them**, ship features, and iteratively improve based on feedback.
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**  
+## 📫 Connect With Me
+- 📧 **Email:** gsirijack@gmail.com  
+- 🔗 **LinkedIn:** https://linkedin.com/in/sirijack  
+- 🐙 **GitHub:** https://github.com/gsiri-jack
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gsiri-jack&label=Profile%20Views&color=blue&style=flat" alt="visitor counter"/>
 </p>
+
+
+---
+
+## ❤️ Things That Drive Me
+
+<p>
+  <img src="https://img.shields.io/badge/Spirit-Wolf-000000?style=for-the-badge&logo=wolf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inspired%20By-Steve%20Jobs-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Love-Coding-131313?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Fueled%20By-Coffee-6f4e37?style=for-the-badge&logo=coffee" />
+</p>
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**  
