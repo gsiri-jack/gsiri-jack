@@ -72,7 +72,6 @@ Interactive data analysis dashboard showcasing KPIs and sales insights.
 
 ---
 
-## ❤️ Things That Drive Me
 <p align="center">
   🐺 Wolf mindset • 💡 Steve Jobs inspiration • 💻 Coding lover • ☕ Coffee-powered developer  
 </p>
