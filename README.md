@@ -85,11 +85,8 @@ I don't just learn technologies; **I build real systems with them**, ship featur
 
 ## ❤️ Things That Drive Me
 
-<p>
-  <img src="https://img.shields.io/badge/Spirit-Wolf-000000?style=for-the-badge&logo=wolf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inspired%20By-Steve%20Jobs-4A90E2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Love-Coding-131313?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Fueled%20By-Coffee-6f4e37?style=for-the-badge&logo=coffee" />
+<p align="center">
+  🐺 Wolf mindset • 💡 Steve Jobs inspiration • 💻 Coding lover • ☕ Coffee-powered developer
 </p>
 
 ---
