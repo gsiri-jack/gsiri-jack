@@ -1,56 +1,72 @@
-<h1 align="center">Hi 👋, I'm Siri Jack</h1>
-<h3 align="center">A Passionate WordPress & Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Gona Sirijack</h1>
+<h3 align="center">Backend Developer | Java • Spring • Python • SQL | Final Year CSE Student</h3>
 
-🚀 I'm a final-year Computer Science student with a keen interest in building **scalable backend systems**, exploring **WordPress plugin development**, and solving real-world problems through code.
-
-- 🔭 Currently working on: [Post Reactions Plugin](https://github.com/gsiri-jack/post-reaction-plugin) – a custom WordPress plugin that lets users react to posts using emojis.
-- 🧠 Exploring: PHP, WordPress Core APIs, Gutenberg Blocks, and RESTful development.
-- 🤝 I’m open to collaborating on **WordPress Plugins**, **Open Source Projects**, and **Backend Systems**.
-- 🌱 Learning every day and striving to contribute more to the WordPress open source community.
-- 📫 Reach me at: **gsirijack@gmail.com**
-- 🧰 Tools & Tech: Java, PHP, Python, React, MySQL, Spring Boot, Django, Git, WordPress.
-
----
-
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/sirijack" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sirijack" height="30" width="40" />
-  </a>
-  <a href="https://profiles.wordpress.org/jackgona/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gsiri-jack&label=Profile%20Views&color=blue&style=flat" alt="visitor counter"/>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🧑‍💻 About Me
+- 🎓 Final-year **Computer Science Engineering** student at Pace Institute of Technology and Sciences (CGPA: 7.78)  
+- 💼 Experienced in **Java Full Stack**, **Python**, **Django**, **Spring**, **React**, and **MySQL**  
+- 🧪 Former Java Full Stack Intern at **CodeTantra** and Data Science Intern at **42Learn**  
+- 🛠️ Actively contributing to open source (ProfessionalWiki/Rules)  
+- 🚀 Focused on backend systems, distributed apps, and cloud-based solutions  
+- 📚 Preparing for engineering roles & coding competitions (Juspay, Flipkart Grid)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="40" height="40"/>
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,php" />
+</p>
+
+### **Frameworks & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,django,wordpress,git,mysql,aws" />
 </p>
 
 ---
 
-### 🧩 Featured Projects
+## 📌 Featured Projects
 
-- ✅ [Post Reactions Plugin](https://github.com/gsiri-jack/post-reaction-plugin) – Custom WordPress Plugin to add reaction emojis to posts.
-- 🛠️ [InterviewExpert](https://github.com/gsiri-jack/interviewXpert) – A Java/Spring Boot project to help with interview preparation and tracking.
+### 🔹 **Interview Expert**
+A full-stack interview preparation platform built with **Java, Spring, MySQL, HTML/CSS/JS**.  
+Features automated question flow, authentication, and analytics.
+
+### 🔹 **Multi-Store Ecommerce Platform**
+Developed using **Python, Django & React JS**, supporting multi-store operations, cart system, and admin dashboards.
+
+### 🔹 **Salesforce CRM for Student Management**
+A CRM built on **Salesforce**, handling **Leads, Students, Courses**, and automated emails.
+
+### 🔹 **Super Store Tableau Dashboard**
+Interactive data analysis dashboard showcasing KPIs and sales insights.
 
 ---
 
-### ❤️ Open Source
-
-I strongly believe in giving back to the developer community and love contributing to open-source projects. Let's build something meaningful together!
+## 📚 Certifications
+- **Internet of Things – NPTEL (Elite + Silver)**
+- **Privacy and Security in Online Social Media – NPTEL (Elite)**
+- **Python Fundamentals – IIT Bombay (Spoken Tutorials)**
 
 ---
+
+## 🎯 What I'm Focusing On Right Now
+- Strengthening **backend engineering skills**
+- Building cloud-integrated platforms using AWS + Spring Boot  
+
+
+---
+
+## 📫 Connect With Me
+- 📧 **Email:** gsirijack@gmail.com  
+- 🔗 **LinkedIn:** https://linkedin.com/in/sirijack  
+- 🐙 **GitHub:** https://github.com/gsiri-jack  
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**  
