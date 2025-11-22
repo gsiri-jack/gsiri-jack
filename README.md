@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gona Sirijack</h1>
 <h3 align="center">Backend Developer | Java • Spring • Python • SQL | Final Year CSE Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gsiri-jack&label=Profile%20Views&color=blue&style=flat" alt="visitor counter"/>
-</p>
+
 
 ---
 
@@ -70,3 +68,9 @@ Interactive data analysis dashboard showcasing KPIs and sales insights.
 ---
 
 ⭐ **If you like my work, consider starring my repositories!**  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gsiri-jack&label=Profile%20Views&color=blue&style=flat" alt="visitor counter"/>
+</p>
